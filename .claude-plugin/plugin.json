@@ -1,0 +1,13 @@
+{
+  "name": "skinforge",
+  "version": "0.1.0",
+  "description": "Terminal skins for Claude Code: color themes plus a banner, spinner and finish sound per theme. Ships Cyberpunk Neon and the four Catppuccin flavors.",
+  "experimental": {
+    "themes": "./themes"
+  },
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Sanjesh RG"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "skinforge",
+  "owner": { "name": "Sanjesh RG" },
+  "plugins": [
+    {
+      "name": "skinforge",
+      "source": "./",
+      "description": "Terminal skins for Claude Code: color themes plus a banner, spinner and finish sound per theme."
+    }
+  ]
+}
